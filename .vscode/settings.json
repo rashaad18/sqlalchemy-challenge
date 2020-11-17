@@ -1,0 +1,12 @@
+{
+    "jupyter.jupyterServerType": "local",
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "database": "sqlite:///Resources/hawaii.sqlite",
+            "name": "Hawaii"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
